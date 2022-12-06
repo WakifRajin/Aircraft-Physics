@@ -1,12 +1,9 @@
 # Aircraft-Physics
 
-Fixed wing aircraft physics for Unity. Based on paper by Khan and Nahon 2015.
+Fixed wing aircraft physics for Unity. *Based on paper by Khan and Nahon 2015*.
 
 **W. Khan and M. Nahon**, "Real-time modeling of agile fixed-wing UAV aerodynamics," 2015 *International Conference on Unmanned Aircraft Systems* (ICUAS), Denver, CO, 2015, pp. 1188-1195, doi: 10.1109/ICUAS.2015.7152411.
 
- [__Video__](https://youtu.be/p3jDJ9FtTyM) explaining the basics of how the system works.
-
-![Thumbnail](./Images/Thumbnail.png "Video thumbnail") 
 
 ## Getting started
 
